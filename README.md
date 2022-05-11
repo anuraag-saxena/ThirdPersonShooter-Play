@@ -9,5 +9,5 @@ Right mouse button  => Aim<br>
 Left mouse button   => Shoot<br>
 Scroll              => change weapon
 
-<<<Improvements Needed>>><br>
+<<< Improvements Needed >>><br>
 Crosshair, UI, environment<br>
