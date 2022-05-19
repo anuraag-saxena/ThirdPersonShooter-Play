@@ -7,7 +7,7 @@ shift               => Sprint<br>
 C                   => Crouch<br>
 Right mouse button  => Aim<br>
 Left mouse button   => Shoot<br>
-Scroll              => change weapon
-
+Scroll              => change weapon<br>
+Esc                 => Menu<br><br>
 <<< Improvements Needed >>><br>
 Crosshair, UI, environment<br>
